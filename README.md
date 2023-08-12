@@ -8,6 +8,7 @@ Este repositorio contiene un modelo de aprendizaje automático para clasificar t
 - [Uso](#uso)
 - [Estructura del Código](#estructura-del-código)
 - [Agradecimientos](#agradecimientos)
+- [Contacto](#contacto)
 
 ## Requisitos
 - Python 3.x
@@ -37,5 +38,13 @@ Este repositorio contiene un modelo de aprendizaje automático para clasificar t
 
 ## Agradecimientos
 Este código fue desarrollado por JUAN MIGUEL ROJAS ROMERO y FRANCISCO ANTONIO CASTILLO VELASQUEZ como parte de Verano de la Ciencia de la Region Centro (https://veranoregional.org/appVerano/). Si utilizas este código o te inspiras en él, por favor, considera dar crédito a los autores y proporcionar un enlace a este repositorio. ¡Esperamos que encuentres útil esta implementación de PLN y redes neuronales para clasificación de textos!
+
+## Contacto
+Juan Miguel Rojas.
+120035255@upq.edu.mx
+contacto@michinded.com
+
+
+
 
 
