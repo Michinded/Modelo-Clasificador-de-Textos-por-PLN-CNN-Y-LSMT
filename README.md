@@ -23,6 +23,7 @@ Este repositorio contiene un modelo de aprendizaje automático para clasificar t
 1. Asegúrate de tener los requisitos instalados en tu entorno.
 2. Coloca tu archivo de conjunto de datos ('data_set.csv') y archivo de nuevos textos ('nuevos_textos.csv') en el mismo directorio que el código.
 3. Ejecuta el código y sigue las instrucciones para entrenar el modelo y realizar predicciones.
+4. Si deseas ejecutarlo sin usar tu hardware, puedes probar la opción disponible en Google Colab: https://colab.research.google.com/drive/1LF9gHu1whrByxSYsKgztsgannxjf0cV2?usp=sharing
 
 ## Estructura del Código
 - **Lectura del Dataset:** Inicio del código con la lectura del conjunto de datos que contiene los textos y los autores correspondientes.
